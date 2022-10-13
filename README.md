@@ -8,7 +8,7 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Optimized our linear regression model performance by using ensemble stacking technique to get best model. 
 * In process of building a user facing API using streamlit 
 
-![](https://github.com/MarwanH7/Marwan_Portfolio/blob/main/Images/EDA%20project%201%20.png)
+![](/Images/EDA%20project%201%20.png)
 
 
 
@@ -20,4 +20,4 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Improved the base model performance from 67% recall for minority group and 81% accuracy to 97% for both accuracy and recall. 
 * Built a user facing API using streamlit, where user can upload a csv file of the data set and get the same dataset with a churn_probability column.
 
-![](https://github.com/MarwanH7/Marwan_Portfolio/blob/main/Images/Model_1_Score.png)
+![](/Images/Model_1_Score.png)
