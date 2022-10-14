@@ -21,3 +21,6 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Built a user facing API using streamlit, where user can upload a csv file of the data set and get the same dataset with a churn_probability column.
 
 ![](/Images/Model_1_Score.png)
+
+
+remote_theme: Slate
