@@ -23,4 +23,3 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 ![](/Images/Model_1_Score.png)
 
 
-remote_theme: Slate
