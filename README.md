@@ -23,7 +23,7 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Optimized our linear regression model performance by using ensemble stacking technique to get best model. 
 * In process of building a user facing API using streamlit 
 
-![](/Images/EDA%20project%201%20.png)
+![](/Images/EDA_project_1.png)
 
 
 
