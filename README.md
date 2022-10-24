@@ -40,3 +40,4 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 ![Screen Shot 2022-10-24 at 2 34 28 PM](https://user-images.githubusercontent.com/56262986/197599948-97daf3bd-2652-4113-a585-64858c0607f4.png)
 
 
+
