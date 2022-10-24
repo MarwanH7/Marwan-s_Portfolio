@@ -8,7 +8,7 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Engineered features (dummy variables, aggregate monthly and total charges per servies).
 * Balanced the data using oversampling & undersampling techniques (SMOTE).
 * Improved the base model performance from 67% recall for minority group and 81% accuracy to 97% for both accuracy and recall. 
-* Built a user facing API using streamlit, where user can upload a csv file of the data set and get the same dataset with a churn_probability column.
+* Built a user facing API using streamlit, where user/company employee can upload a csv file of the data set and get the same dataset with a churn_probability column.
 
 ![](/Images/Model_1_Score.png)
 
