@@ -10,9 +10,7 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 * Improved the base model performance from 67% recall for minority group and 81% accuracy to 97% for both accuracy and recall. 
 * Built a user facing API using streamlit, where user/company employee can upload a csv file of the data set and get the same dataset with a churn_probability column.
 
-![](/Images/Model_1_Score.png)
-
-
+![Screen Shot 2022-10-24 at 2 41 23 PM](https://user-images.githubusercontent.com/56262986/197601154-c5d73a3b-93a9-4db1-a7a2-a6dd459ac93a.png)
 
 
 
