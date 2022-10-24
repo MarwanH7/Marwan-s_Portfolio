@@ -27,5 +27,16 @@ This page summarizes all the projects I worked on, if you want to explore a proj
 
 
 
+# [Project 3:Loan Automation Approval Process (Mini Project, 1 day)](https://github.com/MarwanH7/Loan-Automation-Approval-Process-Classification-)
+
+* Created a Machine learning model that predicts the probability a cutomer will get approved for a loan or not based on a data set with 11 features. 
+* Cleaned the data properly (missing values, extreme values) 
+* Performed a lot of data exploratory analysis to better understand the customer segments with respect to the target variable. 
+* Optimized the base model accuracy from 69% in terms of accuracy and 78% for F1 score to 81.3% in terms of accuracy and 88% F1 score using piplines grid search to hyperparamter tune and cross validate. 
+* Deployed the model using Flask & AWS
+* In process of building a user facing API using streamlit to take the entire csv file and return a csv file with a prediction probability column. 
+
+
+![Screen Shot 2022-10-24 at 2 34 28 PM](https://user-images.githubusercontent.com/56262986/197599948-97daf3bd-2652-4113-a585-64858c0607f4.png)
 
 
